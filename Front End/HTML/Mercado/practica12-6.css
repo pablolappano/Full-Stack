@@ -1,0 +1,32 @@
+#misImput {
+    margin-top: 25%;
+    margin-left: 25%;
+}
+
+body {
+    background-color: silver !important;
+}
+
+#precio-producto {
+    width: 25%;
+}
+
+h2 {
+    width: 30%;
+    margin-left: 35%;
+    font-weight: bold!important;
+    font-size: 25px !important;
+    background-color: red !important;
+}
+
+#producto {
+    width: 70%;
+}
+
+ol {
+    margin-left: 19%;
+    text-align: right;
+    margin-right: 53%;
+    background-color: rgb(192, 199, 208);
+    padding-right: 2%;
+}

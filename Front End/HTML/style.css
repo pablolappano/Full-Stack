@@ -1,0 +1,28 @@
+h1{
+    color: rgb(22, 80, 154);
+    text-align: center;
+    font-size: 110px;
+    font-family: 'Dancing Script', cursive;
+}
+p{
+    color: rgb(142, 153, 167);
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    
+
+}
+img{
+    size: 500px;
+    margin: auto;
+}
+
+body{
+    background-color: rgb(0, 0, 0); 
+}
+
+#lista{
+    
+    color: whitesmoke;
+    text-align: center;
+}
