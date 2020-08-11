@@ -1,0 +1,16 @@
+{
+  "name": "importartexto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "arregloTXT": "tsc index.ts & node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.0.26",
+    "readline-sync": "^1.4.10"
+  }
+}
