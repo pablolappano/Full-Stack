@@ -10,23 +10,23 @@ var Televisor = /** @class */ (function () {
             this.estaPrendido = true;
     };
     Televisor.prototype.subirVolumen = function () {
-        if (this.estaPrendido = true)
+        if (this.estaPrendido == true)
             this.decodificador.subirVolumen();
     };
     Televisor.prototype.bajarVolumen = function () {
-        if (this.estaPrendido = true)
+        if (this.estaPrendido == true)
             this.decodificador.bajarVolumen();
     };
     Televisor.prototype.subirCanal = function () {
-        if (this.estaPrendido = true)
+        if (this.estaPrendido == true)
             this.decodificador.subirCanal();
     };
     Televisor.prototype.bajarCanal = function () {
-        if (this.estaPrendido = true)
+        if (this.estaPrendido == true)
             this.decodificador.bajarCanal();
     };
     Televisor.prototype.elegirCanal = function (canal) {
-        if (this.estaPrendido = true)
+        if (this.estaPrendido == true)
             this.decodificador.elegirCanal(canal);
     };
     return Televisor;
